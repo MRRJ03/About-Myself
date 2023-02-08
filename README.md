@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajendra Bhadarge
 - 👀 A Frontend Web Developer..🖥
 - 🌱 I’m currently learning --> BECHELOR OF COMPUTER SCIENCE AT B.P.H.E SOCIETY'S AHMEDNAGAR COLLEGE, AHMEDNAGAR
-- 💞️ I’m loving to take Challanges its gives me more confidence and Boost up my Knowledge
+- 💞️ I’m loving to take Challanges its keep boosting my Confidence and gives me more Knowledge
 - 📫 How to reach me --> mrrj1503@gmail.com
 
 <!---
