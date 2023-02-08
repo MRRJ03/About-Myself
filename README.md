@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MRRJ03
-- 👀 I’m interested in --> 
-- 🌱 I’m currently learning --> BECHELOR OF COMPUTER SCIENCE AT B.P.H.E SOCIETY'S AHMEDNAGAR COLLEGE, AHMEDNAGAR.
-- 💞️ I’m looking to collaborate on --> 
+- 👋 Hi, I’m Rajendra Bhadarge
+- 👀 A Frontend Web Developer..🖥
+- 🌱 I’m currently learning --> BECHELOR OF COMPUTER SCIENCE AT B.P.H.E SOCIETY'S AHMEDNAGAR COLLEGE, AHMEDNAGAR
+- 💞️ I’m loving to take Challanges its gives me more confidence and Boost up my Knowledge
 - 📫 How to reach me --> mrrj1503@gmail.com
 
 <!---
